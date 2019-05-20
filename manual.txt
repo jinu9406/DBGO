@@ -1,0 +1,20 @@
+** Our database is based on MySQL 5.7.
+
+1. Download everything in the folder.
+
+
+2. We use 'php' as an application so it is needed to start 'apache'.
+
+   (** 'Sites/index.html' is the first page of our website.
+   Once you access to '127.0.0.1' or 'localhost', this page will be shown.)
+
+
+3. How 'php' can access to the database is,
+   to set a username to 'root' and a password to 'Hisnet12!'.
+   Also, the name of the database must be 'genie'.
+
+
+4. Everything is done!
+
+   (** Note that every scenario should be executed in order
+   to get an expected output especially from #51 to #55 scenarios.)
